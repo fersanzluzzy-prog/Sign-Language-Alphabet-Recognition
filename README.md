@@ -21,9 +21,10 @@ This repository focuses on my contribution to the project: the implementation of
 
 <p align="center">
   <img src="assets/alphabet.jpg" width="45%">
-  <img src="assets/demo.gif" width="45%">
 </p>
-
+<p align="center">
+  <img src="assets/demo.gif" width="700">
+</p>
 
 ## Recognition Pipeline
 
