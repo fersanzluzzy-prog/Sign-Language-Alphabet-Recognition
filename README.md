@@ -20,7 +20,7 @@ This repository focuses on my contribution to the project: the implementation of
 ## Demo
 
 <p align="center">
-  <img src="assets/alphabet.png" width="45%">
+  <img src="assets/alphabet.jpeg" width="45%">
   <img src="assets/demo.gif" width="45%">
 </p>
 
