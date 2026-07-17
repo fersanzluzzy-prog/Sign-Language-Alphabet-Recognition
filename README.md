@@ -27,15 +27,12 @@ This repository focuses on my contribution to the project: the implementation of
   <em>Real-time recognition of static and dynamic Spanish Sign Language letters.</em>
 </p>
 
-A complete demonstration of the recognition system is available in:
-
-- `assets/demo.mp4`
-
 ### Spanish Sign Language Alphabet
 
 <p align="center">
   <img src="assets/alphabet.jpg" width="450">
 </p>
+
 
 ## Recognition Pipeline
 
