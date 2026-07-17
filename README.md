@@ -7,13 +7,6 @@ The system is built on top of MediaPipe hand landmarks and implements a rule-bas
 Instead of relying on a pre-trained gesture classification model, the recognition logic was implemented from scratch using geometric analysis of MediaPipe hand landmarks. 
 
 
-## Demo
-
-<p align="center">
-  <img src="assets/demo.gif" width="700">
-</p>
-
-
 ## Overview
 
 The original project was developed using a framework provided during the course, responsible for:
@@ -23,6 +16,13 @@ The original project was developed using a framework provided during the course,
 - Hand landmark extraction using MediaPipe
 
 This repository focuses on my contribution to the project: the implementation of the gesture recognition logic and letter classification algorithms.
+
+## Demo
+
+<p align="center">
+  <img src="assets/alphabet.png" width="45%">
+  <img src="assets/demo.gif" width="45%">
+</p>
 
 
 ## Recognition Pipeline
