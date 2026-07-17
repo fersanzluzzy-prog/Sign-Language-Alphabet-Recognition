@@ -17,13 +17,20 @@ The original project was developed using a framework provided during the course,
 
 This repository focuses on my contribution to the project: the implementation of the gesture recognition logic and letter classification algorithms.
 
-## Demo
+## Demonstration
 
 <p align="center">
-  <img src="assets/alphabet.jpg" width="45%">
+  <img src="assets/demo.gif" width="750">
 </p>
+
 <p align="center">
-  <img src="assets/demo.gif" width="700">
+  <em>Real-time recognition of static and dynamic Spanish Sign Language letters.</em>
+</p>
+
+### Spanish Sign Language Alphabet
+
+<p align="center">
+  <img src="assets/alphabet.jpg" width="450">
 </p>
 
 ## Recognition Pipeline
